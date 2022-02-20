@@ -80,5 +80,6 @@ class ToiletScraperSpider(scrapy.Spider):
             "STrapSetout": s_trap_set_out,
             "STrapMin": s_trap_min_set,
             "STrapMax": s_trap_max_set,
+            "BottomInlet": True
         }
 
